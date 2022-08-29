@@ -41,6 +41,7 @@
     <module>demo-social</module>
     <module>demo-zookeeper</module>
     <module>demo-mq-rabbitmq</module>
+    <module>demo-mq-rabbitmq-dynamic-binding</module>
     <module>demo-mq-rocketmq</module>
     <module>demo-mq-kafka</module>
     <module>demo-websocket</module>
@@ -84,7 +85,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
     <mysql.version>8.0.21</mysql.version>
-    <hutool.version>5.4.5</hutool.version>
+    <hutool.version>5.8.3</hutool.version>
     <guava.version>29.0-jre</guava.version>
     <user.agent.version>1.20</user.agent.version>
   </properties>
